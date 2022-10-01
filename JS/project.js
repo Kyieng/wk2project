@@ -16,7 +16,7 @@ function formRefresh(){
 // get user Akan name
 
 function getUserInput(){
-     dd = prompt("Enter your day of brith:");
+     dd = prompt("Enter your day of brith: e.g 1990");
      mm = prompt("Enter your month of birth:");
      yy = prompt("Enter your year of birth:");
      gender = prompt("Enter your gender: [m/f]:");
