@@ -5,7 +5,6 @@ body {
 
 .hero-image {
   background-image: url("../Images/leopardbackground.jpg");
-  background-color: #cccccc;
   height: 600px;
   background-position: center;
   background-repeat: no-repeat;
